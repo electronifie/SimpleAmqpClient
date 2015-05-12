@@ -52,7 +52,7 @@
 
 #include <string.h>
 
-#define BROKER_HEARTBEAT 0
+#define BROKER_HEARTBEAT 580
 
 namespace AmqpClient
 {
